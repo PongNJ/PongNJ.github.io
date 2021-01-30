@@ -24,7 +24,7 @@ Work experience
 
 * Sep 2019 - Sep 2020 : Research Assistant
   * ITS lab, National Electronics and Computer Technology Center (NECTEC)
-  * Duties included: Merging pull requests
+  * Duties included: Patent editing, Research Spin-off (Joined some accelerator programs)
   * Supervisor: Dr Wasan Pattara-Atikom
   
 Tools
