@@ -11,49 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Survey engineering, Chulalongkorn University, 2017
+* M.Sc. in Applied GIS, The University of Sheffield, 2019
+* Ph.D in Geoinformatics, Spacetimelab, University College London, 2025 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan - May 2018: Research intern
+  * Mahidol Oxford Tropical Medicine Research Unit (MORU)
+  * Duties included: Data cleaning and visualising - Malaria data in Ethiopia 
+  * Supervisor: Professor Richard J. Maude
 
-* Fall 2015: Research Assistant
-  * Github University
+* Sep 2019 - Sep 2020 : Research Assistant
+  * ITS lab, National Electronics and Computer Technology Center (NECTEC)
   * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Supervisor: Dr Wasan Pattara-Atikom
   
-Skills
+Tools
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* QGIS
+* ArcGIS
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+# Publications
+#======
+#  <ul>{% for post in site.publications %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+#Talks
+#======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+#Teaching
+#======
+#  <ul>{% for post in site.teaching %}
+#    {% include archive-single-cv.html %}
+#  {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+#Service and leadership
+#======
+#* Currently signed in to 43 different slack teams
