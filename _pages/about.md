@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "*THIS IS MY BLOG*"
+title: "*I WORK HERE*"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
