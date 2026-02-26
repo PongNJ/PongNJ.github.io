@@ -13,8 +13,6 @@ I am currently finishing my PhD and am a Visiting PhD Student at the Applied Geo
 ### Teaching Experience
 
 I have contributed to teaching at UCL across several undergraduate and postgraduate modules as a **Postgraduate Teaching Assistant (PGTA)** and **Guest Lecturer**:
-
-**Postgraduate Teaching Assistant (PGTA)**
 - CEGE0012: *Scenarios in Civil Engineering*  
 - CEGE0014: *Surveying and Field Studies*  
 - BENV0093: *Spatial Analysis of Energy Data*  
@@ -29,7 +27,7 @@ I have contributed to teaching at UCL across several undergraduate and postgradu
 - **[Jan. 2026]** I am a visiting PhD student at [Applied Geotechnologies Research Group Research](https://geotech.webs.uvigo.es/en), [CINTECX](https://cintecx.uvigo.es/en/), [UVigo](https://www.uvigo.gal/en)
 - **[Dec. 2025]** [CLIP the landscape](https://www.sciencedirect.com/science/article/pii/S2352938525003775) is accpeted in Remote Sensing Applications: Society and Environment
 - **[Sept. 2025]** A [paper](https://www.sciencedirect.com/science/article/pii/S0001457525003604) is accpeted in Accident Analysis and Prevention
-- **[Sept. 2025]** [Into the Unknow](https://dl.acm.org/doi/abs/10.1145/3748636.3764175) is accpeted in SigSpatial
+- **[Aug. 2025]** [Into the Unknow](https://dl.acm.org/doi/abs/10.1145/3748636.3764175) is accpeted in SigSpatial
 
 
 
