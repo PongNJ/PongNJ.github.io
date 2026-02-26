@@ -1,22 +1,43 @@
 main:
+  - title: "CLIP the landscape: Automated tagging of crowdsourced landscape images"
+    authors: Ilya Ilyankou, Natchapon Jongwiriyanurak, Tao Cheng, James Haworth
+    conference_short: RSASE
+    conference: "Remote Sensing Applications: Society and Environment"
+    pdf: https://www.sciencedirect.com/science/article/pii/S2352938525003775
+    code: https://github.com/SpaceTimeLab/ClipTheLandscape
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/clipthelandscape.png
+    # notes: New
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: "Into the Unknown: Applying Inductive Spatial-Semantic Location Embeddings for Predicting Individuals' Mobility Beyond Visited Places"
+    authors: Xinglei Wang, Tao Cheng, Stephen Law, Zicao Zeng, Ilya Ilyankou, Junyuan Liu, Lu Yin, Weiming Huang, Natchapon Jongwiriyanurak
+    conference_short: SIGSPATIAL
+    conference: "33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM SIGSPATIAL 2025)"
+    pdf: https://doi.org/10.1145/3748636.3764175
+    code: https://github.com/xlwang233/Into-the-Unknown
+    image: ./assets/img/intotheunknown.png
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+  - title: "Spatiotemporal and behavioural correlates of cycling near misses: evidence from helmet-mounted video data"
+    authors: Nicola Christie, James Haworth, Mohamed Ibrahim, Xiaowei Gao, Natchapon Jongwiriyanurak, Meihui Wang, Jingwei Guo
+    conference_short: AAAP
+    conference: "Accident Analysis & Prevention"
+    pdf: https://www.sciencedirect.com/science/article/pii/S0001457525003604
+    # code: https://github.com/SpaceTimeLab/ClipTheLandscape
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/100cyclists.png
+    # notes: New
+
+  - title: "V-RoAst: Visual Road Assessment. Can VLM be a Road Safety Assessor Using the iRAP Standard?"
+    authors: Natchapon Jongwiriyanurak, Zichao Zeng, June Moh Goo, Xinglei Wang, Ilya Ilyankou, Kerkritt Srirrongvikrai, Meihui Wang, James Haworth
+    conference_short: ICCVW
+    conference: Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV) Workshops
+    pdf: https://openaccess.thecvf.com/content/ICCV2025W/CV4DC/papers/Jongwiriyanurak_V-RoAst_Visual_Road_Assessment._Can_VLM_be_a_Road_Safety_ICCVW_2025_paper.pdf
+    code: https://github.com/PongNJ/V-RoAst
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/V-RoAst_framework.png
+    # notes: New
+
+ 
