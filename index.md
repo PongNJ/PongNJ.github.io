@@ -4,11 +4,13 @@ layout: homepage
 
 ## About Me
 
+My name is Natchapon Jongwiriyanurak (pronounced *Nat-cha-pon Jong-wi-ri-ya-nu-rak*), though I also go by “Pong”.
+
 I am a PhD Candidate at [SpaceTimeLab](https://www.ucl.ac.uk/spacetimelab), [Department of Civil, Environmental and Geomatic Engineering](https://www.ucl.ac.uk/civil-environmental-geomatic-engineering/), [UCL](https://www.ucl.ac.uk/), supervised by Dr [James Haworth](https://profiles.ucl.ac.uk/24884-james-haworth) and Dr [Nicola Christie](https://profiles.ucl.ac.uk/33086-nicola-christie).
 
 My research focuses on **GeoAI and computer vision** for applications in **road safety, urban planning, and civil engineering**. I am particularly interested in leveraging **multimodal data** (e.g., street-level imagery, remote sensing, and crowdsourced data) to build scalable and intelligent systems for understanding the built environment.
 
-I am currently finishing my PhD and am a Visiting PhD Student at the Applied Geotechnologies Research Group, University of Vigo, where I explore **multi-agent systems and multimodal approaches** for road assessment.
+I am currently finishing my PhD and am a Visiting PhD Student at the [Applied Geotechnologies Research Group Research](https://geotech.webs.uvigo.es/en), [CINTECX](https://cintecx.uvigo.es/en/), [UVigo](https://www.uvigo.gal/en), where I explore **multi-agent systems and multimodal approaches** for road assessment.
 
 ### Teaching Experience
 
