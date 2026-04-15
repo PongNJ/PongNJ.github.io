@@ -10,6 +10,7 @@ I am particularly interested in applying and adapting methods across domains, an
 
 ## News
 
+- **[April. 2026]** [Our qualitative paper]() accepted in Traffic Injury Prevention
 - **[Mar. 2026]** [Our paper](https://www.mdpi.com/2412-3811/11/3/95) accepted in Infrastructure
 - **[Jan. 2026]** I am a visiting PhD student at [Applied Geotechnologies Research Group Research](https://geotech.webs.uvigo.es/en), [CINTECX](https://cintecx.uvigo.es/en/), [UVigo](https://www.uvigo.gal/en)
 - **[Dec. 2025]** [CLIP the landscape](https://www.sciencedirect.com/science/article/pii/S2352938525003775) is accpeted in Remote Sensing Applications: Society and Environment
