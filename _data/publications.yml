@@ -1,4 +1,16 @@
 main:
+
+  - title: "Street view-based infrastructure assessment of motorcycle hotspots: A national road network analysis in Thailand"
+    authors: Natchapon Jongwiriyanurak, James Haworth, Horia Ameen, Nicola Christie, Mario Soilán
+    conference_short: AAP
+    conference: "Accident Analysis & Prevention"
+    pdf: https://www.sciencedirect.com/science/article/pii/S0001457526003155
+    code: https://github.com/PongNJ/VisionToRisk
+    # page: https://class-il.mpi-inf.mpg.de/mnemonics/
+    # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    image: ./assets/img/1-s2.0-S0001457526003155-gr2.jpg
+    # notes: New
+
   - title: "CLIP the landscape: Automated tagging of crowdsourced landscape images"
     authors: Ilya Ilyankou, Natchapon Jongwiriyanurak, Tao Cheng, James Haworth
     conference_short: RSASE
