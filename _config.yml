@@ -1,13 +1,14 @@
 # Basic Information 
 title: Natchapon Jongwiriyanurak
-position: GIScience Researcher
-affiliation: University College London
+position: Lecturer in Geomatic Engineering and Geographic Information Science
+affiliation: Chiang Mai University
+affiliation_link: https://civil.eng.cmu.ac.th/?page_id=936&lang=en
 email: natchapon.jongwiriyanurak.20 [at] ucl.ac.uk
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: GeoAI, computer vision, road safety, urban analytics, vision-language models, spatial data science, UCL
-description: GIScience researcher working on GeoAI, computer vision, and multimodal data for urban analytics, road safety, and intelligent infrastructure systems.
+keywords: GeoAI, computer vision, road safety, urban analytics, vision-language models, spatial data science, Chiang Mai University
+description: Lecturer in Geomatic Engineering and Geographic Information Science at Chiang Mai University, Thailand, working on GeoAI, computer vision, and multimodal data for urban analytics, road safety, and intelligent infrastructure systems.
 canonical: https://PongNJ.github.io/
 
 
