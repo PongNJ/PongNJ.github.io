@@ -32,7 +32,7 @@ main:
 
   - title: "Spatiotemporal and behavioural correlates of cycling near misses: evidence from helmet-mounted video data"
     authors: Nicola Christie, James Haworth, Mohamed Ibrahim, Xiaowei Gao, Natchapon Jongwiriyanurak, Meihui Wang, Jingwei Guo
-    conference_short: AAAP
+    conference_short: AAP
     conference: "Accident Analysis & Prevention"
     pdf: https://www.sciencedirect.com/science/article/pii/S0001457525003604
     # code: https://github.com/SpaceTimeLab/ClipTheLandscape

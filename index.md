@@ -8,7 +8,7 @@ My name is Natchapon Jongwiriyanurak, though I also go by “Pong”. I complete
 
 My research explores how advanced methods can be applied to real-world challenges in the built environment, with a particular focus on **GIScience, multimodal data, and models** for applications in **transportation and urban analytics**. During my PhD, I was also a visiting researcher at the [Applied Geotechnologies Research Group](https://geotech.webs.uvigo.es/en), [CINTECX](https://cintecx.uvigo.es/en/), [UVigo](https://www.uvigo.gal/en) in Spain. 
 
-I will join the [Department of Civil Engineering](https://civil.eng.cmu.ac.th/?page_id=936&lang=en) at Chiang Mai University as a Lecturer in the second semester of 2026.
+I recently joined the [Department of Civil Engineering](https://civil.eng.cmu.ac.th/?page_id=936&lang=en) at Chiang Mai University as a Lecturer.
 
 My current research interests include crowdsourced and citizen-generated data as urban sensors, naturalistic studies of walking, hiking, cycling, and motorcycling, and the use of computer vision and multimodal models for understanding cities and transportation systems.
 
