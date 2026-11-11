@@ -14,6 +14,7 @@ My current research interests include crowdsourced and citizen-generated data as
 
 ## News
 
+- **[Oct. 2026]** I started a lectureship at Chiang Mai University.
 - **[Aug. 2026]** A [paper](https://www.sciencedirect.com/science/article/pii/S0001457526003155) from the last chapter of my thesis is available online.
 - **[Jun. 2026]** I passed my PhD viva with minor corrections.
 - **[May. 2026]** [Another paper](http://dx.doi.org/10.1049/itr2.70228) from the [100 cyclists project](https://www.ucl.ac.uk/engineering/research-projects/2021/jun/100-cyclists-project) was accepted in IET ITS.
@@ -27,6 +28,13 @@ My current research interests include crowdsourced and citizen-generated data as
 {% include_relative _includes/publications.md %}
 
 ## Teaching Experience
+
+This semester at Chiang Mai University, I will be teaching:
+
+- CE251443: *Introductory Geospatial Technology for Civil Engineers*
+- CE251343: *Surveying for Civil Engineering*
+
+Next semester, I hope to teach a course in Geospatial Programming, as well as other courses related to my research.
 
 I have contributed to teaching at UCL across several undergraduate and postgraduate modules as a **Postgraduate Teaching Assistant (PGTA)** and **Guest Lecturer**:
 - CEGE0012: *Scenarios in Civil Engineering*  
